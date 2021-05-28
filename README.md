@@ -1,12 +1,10 @@
 <!-- ### Hi there, I'm Binong - aka BinongKBey -->
 
-<img src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/img/me.png" alt="binong"/>
+<img align="right" width="200px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/img/me.png" alt="binong"/>
 
 ### Hi there, I'm Binong - aka BinongKBey
 
 ## I'm a Student, Web Developer!
-
-<!-- - 🔭 I am current -->
 
 - 🌱 I’m currently learning Svelte
 - 👯 I’m currently looking forward to working with other developers
@@ -21,23 +19,23 @@
 
 ### Connect with me:
 
-[<img alt="Binong Kiri Bey | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/binong-kiri-bey-a38723173/)
+[<img alt="Binong Kiri Bey | LinkedIn" width="36px" color="#0e76a8" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/binong-kiri-bey-a38723173/)
 <br />
 
 ### Languages and Tools:
 
-<img alt="javascript" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
+<img alt="javascript" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
 
-<img alt="c++" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
+<img alt="c++" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
 
-<img alt="c" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
-<img alt="node-js" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
+<img alt="c" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
+<img alt="node-js" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
 
 <img alt="mongodb" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/mongodb.png" />
 
-<img alt="react" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
+<img alt="react" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
 
-<img alt="express" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />
+<img alt="express" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />
 
 <br />
 <br />
