@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm Binong - aka BinongKBey -->
 
-<img src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/head.svg" alt="binong"/>
+<img src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/img/me.png" alt="binong"/>
 
 ### Hi there, I'm Binong - aka BinongKBey
 
