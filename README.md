@@ -2,7 +2,7 @@
 
 <img align="right" width="200px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/img/me.png" alt="binong"/>
 
-### Hi there, I'm Binong - aka BinongKBey
+### Hi there, I'm Binong
 
 ## I'm a Student, Web Developer!
 
@@ -24,13 +24,31 @@
 
 ### Languages and Tools:
 
-<img alt="javascript" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
-<img alt="c++" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
-<img alt="c" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
-<img alt="node-js" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
-<img alt="mongodb" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/mongodb.png" />
-<img alt="react" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
-<img alt="express" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />
+<table>
+    <tr>
+        <td>
+            <img alt="javascript" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
+        </td>
+        <td>
+            <img alt="c++" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
+        </td>
+        <td>
+            <img alt="c" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
+        </td>
+        <td>
+            <img alt="node-js" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
+        </td>
+        <td>
+            <img alt="mongodb" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/mongodb.png" />
+        </td>
+        <td>
+            <img alt="react" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
+        </td>
+        <td>
+            <img alt="express" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />    
+        </td>
+    </tr>
+</table>
 
 <br />
 <br />
