@@ -25,16 +25,11 @@
 ### Languages and Tools:
 
 <img alt="javascript" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
-
 <img alt="c++" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
-
 <img alt="c" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
 <img alt="node-js" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
-
 <img alt="mongodb" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/mongodb.png" />
-
 <img alt="react" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
-
 <img alt="express" float="left" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />
 
 <br />
