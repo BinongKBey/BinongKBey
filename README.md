@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm Binong - aka BinongKBey -->
 
-<img src="https://avatars.githubusercontent.com/u/58566077?v=4" alt="binong" height="200px" style="border-radius: 50%"/>
+<img src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/head.svg" alt="binong"/>
 
 ### Hi there, I'm Binong - aka BinongKBey
 
@@ -26,20 +26,18 @@
 
 ### Languages and Tools:
 
-<div style="display: flex,flex-wrap:wrap">
-<img alt="javascript" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
+<img alt="javascript" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/javascript.png" />
 
-<img alt="c++" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
+<img alt="c++" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/cpp-icon.png" />
 
-<img alt="c" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
-<img alt="node-js" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
+<img alt="c" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/c.png" />
+<img alt="node-js" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/nodejs.png" />
 
-<img alt="mongodb" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/mongodb.png" />
+<img alt="mongodb" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/mongodb.png" />
 
-<img alt="react" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
+<img alt="react" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/react-icon.png" />
 
-<img alt="express" style="margin:4px" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />
-</div>
+<img alt="express" width="36px" src="https://raw.githubusercontent.com/BinongKBey/BinongKBey/master/icons/expressjs.png" />
 
 <br />
 <br />
